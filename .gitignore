@@ -141,3 +141,5 @@ static/
 
 # venv config files
 lib64
+.vscode/settings.json
+.vscode
